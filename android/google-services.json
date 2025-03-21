@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611649025987",
+    "project_id": "fire-chat-9126a",
+    "storage_bucket": "fire-chat-9126a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611649025987:android:8eea3d027b41494a292f76",
+        "android_client_info": {
+          "package_name": "com.example.fire_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvbW2cKdCxvkIOa21l3NSS8smvDiRb0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
